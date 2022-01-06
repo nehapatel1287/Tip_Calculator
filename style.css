@@ -8,11 +8,11 @@ main {
   height: 100vh;
   background-image: linear-gradient(
     to right top,
-    #051937,
+    #8d051c,
     #004d7a,
     #008797,
     #00bf72,
-    #a8eb12
+    #eb6212
   );
   display: flex;
   justify-content: center;
